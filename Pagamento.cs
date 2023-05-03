@@ -10,10 +10,6 @@ namespace passed_rod_project
     {
       public DateTime data = DateTime.Now;
       public float valor;
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/gabriel
       public float valorTotal;
 
       public string Cancelar() 
