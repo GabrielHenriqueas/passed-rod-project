@@ -3,6 +3,24 @@
   "restore": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+    "C:\\Users\\39905572899\\Desktop\\passed-rod-project\\passed-rod-project.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\39905572899\\Desktop\\passed-rod-project\\passed-rod-project.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\39905572899\\Desktop\\passed-rod-project\\passed-rod-project.csproj",
+        "projectName": "passed-rod-project",
+        "projectPath": "C:\\Users\\39905572899\\Desktop\\passed-rod-project\\passed-rod-project.csproj",
+        "packagesPath": "C:\\Users\\39905572899\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\39905572899\\Desktop\\passed-rod-project\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\39905572899\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+>>>>>>> origin/guilherme
+<<<<<<< HEAD
     "C:\\Users\\44506315871\\Desktop\\passed-rod-project\\passed-rod-project.csproj": {}
   },
   "projects": {
@@ -50,9 +68,13 @@
           "C:\\Users\\53844614893\\AppData\\Roaming\\NuGet\\NuGet.Config",
 <<<<<<< HEAD
 >>>>>>> gustavo
+<<<<<<< HEAD
 =======
 >>>>>>> origin/gustavo
 >>>>>>> origin/mikael
+=======
+>>>>>>> origin/kaua
+>>>>>>> origin/guilherme
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
