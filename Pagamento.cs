@@ -8,8 +8,9 @@ namespace passed_rod_project
     public class Pagamento
    
     {
-      public DateTime Data = DateTime.Now;
-      public float Valor;
+      public DateTime data = DateTime.Now;
+      public float valor;
+      public float valorTotal;
 
       public string Cancelar() 
       {
