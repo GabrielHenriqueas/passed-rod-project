@@ -1,8 +1,20 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "MTh2Qt6tjVXzQb+iV/p1oxYAXIZMTW/TW6NObRPLxlUwwdi8V71v05/c2NOV9Ads0pPXbRpKYYQloKhKlfsM2A==",
   "success": true,
   "projectFilePath": "C:\\Users\\42351028856\\Desktop\\passed-rod-project\\passed-rod-project.csproj",
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "X/0xtmsoNRAAc71wUYI1YipydcDE2xHx+XgSqPKqW6qeByIVaFhQoD0KsbUn81D4AxpUGwXYhY1+6znwQBnSHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\44506315871\\Desktop\\passed-rod-project\\passed-rod-project.csproj",
+=======
+  "dgSpecHash": "Qbfy83VkiXViAkTovx5cwrLK6hH6uwEbdUTK2ztLlXY8RtKmu8o/oZqSCAQdrSHb1+VVr3ySRJZ1CxTjqsOGdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\53844614893\\Desktop\\passed-rod-project\\passed-rod-project.csproj",
+>>>>>>> gustavo
+>>>>>>> origin/kaua
   "expectedPackageFiles": [],
   "logs": []
 }

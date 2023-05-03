@@ -8,11 +8,20 @@
     "net7.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\42351028856\\.nuget\\packages\\": {}
+=======
+<<<<<<< HEAD
+    "C:\\Users\\44506315871\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\53844614893\\.nuget\\packages\\": {}
+>>>>>>> gustavo
+>>>>>>> origin/kaua
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\42351028856\\Desktop\\passed-rod-project\\passed-rod-project.csproj",
       "projectName": "passed-rod-project",
       "projectPath": "C:\\Users\\42351028856\\Desktop\\passed-rod-project\\passed-rod-project.csproj",
@@ -21,6 +30,27 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\42351028856\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\44506315871\\Desktop\\passed-rod-project\\passed-rod-project.csproj",
+      "projectName": "passed-rod-project",
+      "projectPath": "C:\\Users\\44506315871\\Desktop\\passed-rod-project\\passed-rod-project.csproj",
+      "packagesPath": "C:\\Users\\44506315871\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\44506315871\\Desktop\\passed-rod-project\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\44506315871\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\53844614893\\Desktop\\passed-rod-project\\passed-rod-project.csproj",
+      "projectName": "passed-rod-project",
+      "projectPath": "C:\\Users\\53844614893\\Desktop\\passed-rod-project\\passed-rod-project.csproj",
+      "packagesPath": "C:\\Users\\53844614893\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\53844614893\\Desktop\\passed-rod-project\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\53844614893\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> gustavo
+>>>>>>> origin/kaua
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
