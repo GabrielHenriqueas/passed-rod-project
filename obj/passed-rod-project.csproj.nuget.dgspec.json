@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\44506315871\\Desktop\\passed-rod-project\\passed-rod-project.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\44506315871\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "C:\\Users\\53844614893\\Desktop\\passed-rod-project\\passed-rod-project.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\53844614893\\Desktop\\passed-rod-project\\passed-rod-project.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\53844614893\\Desktop\\passed-rod-project\\passed-rod-project.csproj",
+        "projectName": "passed-rod-project",
+        "projectPath": "C:\\Users\\53844614893\\Desktop\\passed-rod-project\\passed-rod-project.csproj",
+        "packagesPath": "C:\\Users\\53844614893\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\53844614893\\Desktop\\passed-rod-project\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\53844614893\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> gustavo
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

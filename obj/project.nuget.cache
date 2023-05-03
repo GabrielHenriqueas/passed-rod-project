@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "X/0xtmsoNRAAc71wUYI1YipydcDE2xHx+XgSqPKqW6qeByIVaFhQoD0KsbUn81D4AxpUGwXYhY1+6znwQBnSHg==",
   "success": true,
   "projectFilePath": "C:\\Users\\44506315871\\Desktop\\passed-rod-project\\passed-rod-project.csproj",
+=======
+  "dgSpecHash": "Qbfy83VkiXViAkTovx5cwrLK6hH6uwEbdUTK2ztLlXY8RtKmu8o/oZqSCAQdrSHb1+VVr3ySRJZ1CxTjqsOGdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\53844614893\\Desktop\\passed-rod-project\\passed-rod-project.csproj",
+>>>>>>> gustavo
   "expectedPackageFiles": [],
   "logs": []
 }
