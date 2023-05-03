@@ -5,11 +5,25 @@ using System.Threading.Tasks;
 
 namespace passed_rod_project
 {
-    public class Boleto
+    public class Boleto : Pagamento
     {
-        public float DescontoBoleto(float valor)
+        // metodos
+        public void Registrar()
         {
-            return (valor / 0.88f);
+            valorTotal = valor * 0.88f;
+
+            Random codigoBarra = new Random();
+            
+            Console.WriteLine(@$"Valor a ser pago: {valorTotal.ToString("C")}");
+            Console.WriteLine($"Data da compra: {data}");
+            
+            
+            Console.WriteLine($"");
+            Console.WriteLine(@$"||||||||||||||||||||||||||||||||||||||||||||||||");
+            Console.WriteLine($"{codigoBarra.Next(99999)}. {codigoBarra.Next(99999)}. {codigoBarra.Next(999999)} {codigoBarra.Next(99999)}. {codigoBarra.Next(999999999)} {codigoBarra.Next(9)} {codigoBarra.Next(999999999)}");
+            Console.WriteLine($"");
         }
     }
+
+
 }
