@@ -9,7 +9,14 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = passed_rod_project
 <<<<<<< HEAD
+<<<<<<< HEAD
 build_property.ProjectDir = c:\Users\44506315871\Desktop\passed-rod-project\
 =======
 build_property.ProjectDir = c:\Users\53844614893\Desktop\passed-rod-project\
 >>>>>>> gustavo
+=======
+build_property.ProjectDir = c:\Users\51915337801\Desktop\passed-rod-project\
+=======
+build_property.ProjectDir = c:\Users\53844614893\Desktop\passed-rod-project\
+>>>>>>> origin/gustavo
+>>>>>>> origin/mikael

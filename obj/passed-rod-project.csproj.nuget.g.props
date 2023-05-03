@@ -6,18 +6,32 @@
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\44506315871\.nuget\packages\</NuGetPackageFolders>
 =======
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\53844614893\.nuget\packages\</NuGetPackageFolders>
 >>>>>>> gustavo
+=======
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\51915337801\.nuget\packages\</NuGetPackageFolders>
+=======
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\53844614893\.nuget\packages\</NuGetPackageFolders>
+>>>>>>> origin/gustavo
+>>>>>>> origin/mikael
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.4.0</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <SourceRoot Include="C:\Users\44506315871\.nuget\packages\" />
 =======
     <SourceRoot Include="C:\Users\53844614893\.nuget\packages\" />
 >>>>>>> gustavo
+=======
+    <SourceRoot Include="C:\Users\51915337801\.nuget\packages\" />
+=======
+    <SourceRoot Include="C:\Users\53844614893\.nuget\packages\" />
+>>>>>>> origin/gustavo
+>>>>>>> origin/mikael
   </ItemGroup>
 </Project>
