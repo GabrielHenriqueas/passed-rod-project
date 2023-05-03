@@ -7,15 +7,21 @@
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\39905572899\.nuget\packages\</NuGetPackageFolders>
 =======
 >>>>>>> origin/guilherme
+=======
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\42351028856\.nuget\packages\</NuGetPackageFolders>
+=======
+>>>>>>> origin/gabriel
 <<<<<<< HEAD
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\44506315871\.nuget\packages\</NuGetPackageFolders>
 =======
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\53844614893\.nuget\packages\</NuGetPackageFolders>
 >>>>>>> gustavo
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\51915337801\.nuget\packages\</NuGetPackageFolders>
@@ -26,21 +32,30 @@
 =======
 >>>>>>> origin/kaua
 >>>>>>> origin/guilherme
+=======
+>>>>>>> origin/kaua
+>>>>>>> origin/gabriel
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.4.0</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <SourceRoot Include="C:\Users\39905572899\.nuget\packages\" />
 =======
 >>>>>>> origin/guilherme
+=======
+    <SourceRoot Include="C:\Users\42351028856\.nuget\packages\" />
+=======
+>>>>>>> origin/gabriel
 <<<<<<< HEAD
     <SourceRoot Include="C:\Users\44506315871\.nuget\packages\" />
 =======
     <SourceRoot Include="C:\Users\53844614893\.nuget\packages\" />
 >>>>>>> gustavo
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     <SourceRoot Include="C:\Users\51915337801\.nuget\packages\" />
@@ -51,5 +66,8 @@
 =======
 >>>>>>> origin/kaua
 >>>>>>> origin/guilherme
+=======
+>>>>>>> origin/kaua
+>>>>>>> origin/gabriel
   </ItemGroup>
 </Project>

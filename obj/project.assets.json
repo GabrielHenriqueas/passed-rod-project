@@ -10,15 +10,21 @@
   "packageFolders": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     "C:\\Users\\39905572899\\.nuget\\packages\\": {}
 =======
 >>>>>>> origin/guilherme
+=======
+    "C:\\Users\\42351028856\\.nuget\\packages\\": {}
+=======
+>>>>>>> origin/gabriel
 <<<<<<< HEAD
     "C:\\Users\\44506315871\\.nuget\\packages\\": {}
 =======
     "C:\\Users\\53844614893\\.nuget\\packages\\": {}
 >>>>>>> gustavo
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     "C:\\Users\\51915337801\\.nuget\\packages\\": {}
@@ -29,10 +35,14 @@
 =======
 >>>>>>> origin/kaua
 >>>>>>> origin/guilherme
+=======
+>>>>>>> origin/kaua
+>>>>>>> origin/gabriel
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -46,6 +56,17 @@
         "C:\\Users\\39905572899\\AppData\\Roaming\\NuGet\\NuGet.Config",
 =======
 >>>>>>> origin/guilherme
+=======
+      "projectUniqueName": "C:\\Users\\42351028856\\Desktop\\passed-rod-project\\passed-rod-project.csproj",
+      "projectName": "passed-rod-project",
+      "projectPath": "C:\\Users\\42351028856\\Desktop\\passed-rod-project\\passed-rod-project.csproj",
+      "packagesPath": "C:\\Users\\42351028856\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\42351028856\\Desktop\\passed-rod-project\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\42351028856\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+>>>>>>> origin/gabriel
 <<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\44506315871\\Desktop\\passed-rod-project\\passed-rod-project.csproj",
       "projectName": "passed-rod-project",
@@ -77,12 +98,16 @@
 <<<<<<< HEAD
 >>>>>>> gustavo
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> origin/gustavo
 >>>>>>> origin/mikael
 =======
 >>>>>>> origin/kaua
 >>>>>>> origin/guilherme
+=======
+>>>>>>> origin/kaua
+>>>>>>> origin/gabriel
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

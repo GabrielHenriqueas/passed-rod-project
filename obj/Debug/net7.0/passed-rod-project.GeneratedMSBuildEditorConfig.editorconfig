@@ -10,15 +10,21 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = passed_rod_project
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 build_property.ProjectDir = c:\Users\39905572899\Desktop\passed-rod-project\
 =======
 >>>>>>> origin/guilherme
+=======
+build_property.ProjectDir = c:\Users\42351028856\Desktop\passed-rod-project\
+=======
+>>>>>>> origin/gabriel
 <<<<<<< HEAD
 build_property.ProjectDir = c:\Users\44506315871\Desktop\passed-rod-project\
 =======
 build_property.ProjectDir = c:\Users\53844614893\Desktop\passed-rod-project\
 >>>>>>> gustavo
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 build_property.ProjectDir = c:\Users\51915337801\Desktop\passed-rod-project\
@@ -29,3 +35,6 @@ build_property.ProjectDir = c:\Users\53844614893\Desktop\passed-rod-project\
 =======
 >>>>>>> origin/kaua
 >>>>>>> origin/guilherme
+=======
+>>>>>>> origin/kaua
+>>>>>>> origin/gabriel

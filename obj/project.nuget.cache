@@ -2,12 +2,19 @@
   "version": 2,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   "dgSpecHash": "w+AFDlNGWL8BnOTKbmA/F6e9ZLiHGAzDASFR27UAv6ma42vsYHJjmDhmAMJlzGEuQq1E98ZAdWWUoghUeV7zVA==",
   "success": true,
   "projectFilePath": "C:\\Users\\39905572899\\Desktop\\passed-rod-project\\passed-rod-project.csproj",
 =======
 >>>>>>> origin/guilherme
+=======
+  "dgSpecHash": "MTh2Qt6tjVXzQb+iV/p1oxYAXIZMTW/TW6NObRPLxlUwwdi8V71v05/c2NOV9Ads0pPXbRpKYYQloKhKlfsM2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\42351028856\\Desktop\\passed-rod-project\\passed-rod-project.csproj",
+=======
+>>>>>>> origin/gabriel
 <<<<<<< HEAD
   "dgSpecHash": "X/0xtmsoNRAAc71wUYI1YipydcDE2xHx+XgSqPKqW6qeByIVaFhQoD0KsbUn81D4AxpUGwXYhY1+6znwQBnSHg==",
   "success": true,
@@ -24,12 +31,16 @@
 <<<<<<< HEAD
 >>>>>>> gustavo
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> origin/gustavo
 >>>>>>> origin/mikael
 =======
 >>>>>>> origin/kaua
 >>>>>>> origin/guilherme
+=======
+>>>>>>> origin/kaua
+>>>>>>> origin/gabriel
   "expectedPackageFiles": [],
   "logs": []
 }

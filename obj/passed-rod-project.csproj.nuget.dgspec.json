@@ -3,6 +3,7 @@
   "restore": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     "C:\\Users\\39905572899\\Desktop\\passed-rod-project\\passed-rod-project.csproj": {}
   },
@@ -20,6 +21,23 @@
           "C:\\Users\\39905572899\\AppData\\Roaming\\NuGet\\NuGet.Config",
 =======
 >>>>>>> origin/guilherme
+=======
+    "C:\\Users\\42351028856\\Desktop\\passed-rod-project\\passed-rod-project.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\42351028856\\Desktop\\passed-rod-project\\passed-rod-project.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\42351028856\\Desktop\\passed-rod-project\\passed-rod-project.csproj",
+        "projectName": "passed-rod-project",
+        "projectPath": "C:\\Users\\42351028856\\Desktop\\passed-rod-project\\passed-rod-project.csproj",
+        "packagesPath": "C:\\Users\\42351028856\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\42351028856\\Desktop\\passed-rod-project\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\42351028856\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+>>>>>>> origin/gabriel
 <<<<<<< HEAD
     "C:\\Users\\44506315871\\Desktop\\passed-rod-project\\passed-rod-project.csproj": {}
   },
@@ -69,12 +87,16 @@
 <<<<<<< HEAD
 >>>>>>> gustavo
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> origin/gustavo
 >>>>>>> origin/mikael
 =======
 >>>>>>> origin/kaua
 >>>>>>> origin/guilherme
+=======
+>>>>>>> origin/kaua
+>>>>>>> origin/gabriel
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
