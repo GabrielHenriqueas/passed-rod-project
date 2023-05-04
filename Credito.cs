@@ -20,20 +20,20 @@ namespace passed_rod_project
             {
                 do
                 {
-                    Console.WriteLine($"Em quantas vezes deseja parcelar o valor?");
+                    Console.WriteLine($"Em quantas vezes deseja parcelar o valor? (até 12x)");
                     parcelas = int.Parse(Console.ReadLine()!);
                 } while (parcelas > 12);
 
                 if (parcelas <= 6)
                 {
-                    valorTotal = valor * 0.95f;
+                    valorTotal = valor * 1.05f;
                 }
                 else
                 {
-                    valorTotal = valor * 0.92f;
+                    valorTotal = valor * 1.08f;
                 }
                 float valorParcelas = valorTotal / parcelas;
-                Console.WriteLine(@$"Compra de {valorTotal.ToString("C")} parcelada em {parcelas}x de {valorParcelas.ToString("C")} realizada com sucesso.
+                Console.WriteLine(@$"Compra de {valor.ToString("C")} parcelada em {parcelas}x de {valorParcelas.ToString("C")} realizada com sucesso.
 Data da compra: {data}
                     ");
 
