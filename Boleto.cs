@@ -11,11 +11,12 @@ namespace passed_rod_project
         public void Registrar()
         {
             valorTotal = valor * 0.88f;
+            data = data.AddDays(5);
 
             Random codigoBarra = new Random();
             
             Console.WriteLine(@$"Valor a ser pago: {valorTotal.ToString("C")}");
-            Console.WriteLine($"Data da compra: {data}");
+            Console.WriteLine($"Data de vencimento do boleto: {data}");
             
             
             Console.WriteLine($"");
