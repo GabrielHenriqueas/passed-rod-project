@@ -33,6 +33,7 @@ namespace passed_rod_project
                     valorTotal = valor * 1.08f;
                 }
                 float valorParcelas = valorTotal / parcelas;
+                Console.Clear();
                 Console.WriteLine(@$"Compra de {valor.ToString("C")} parcelada em {parcelas}x de {valorParcelas.ToString("C")} realizada com sucesso.
 Data da compra: {data}
                     ");

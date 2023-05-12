@@ -10,6 +10,7 @@ namespace passed_rod_project
         // metodos
         public void Registrar()
         {
+            Console.Clear();
             valorTotal = valor * 0.88f;
             data = data.AddDays(5);
 

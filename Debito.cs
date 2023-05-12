@@ -10,6 +10,7 @@ namespace passed_rod_project
         float saldo = 800;
         public override void Pagar()
         {
+            Console.Clear();
             if (valor <= saldo)
             {
                 Console.WriteLine(@$"Compra de {valor.ToString("C")} paga com sucesso.

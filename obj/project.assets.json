@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\44506315871\\Desktop\\passed-rod-project\\passed-rod-project.csproj",
+      "projectUniqueName": "C:\\Users\\44506315871\\Desktop\\zxc\\passed-rod-project\\passed-rod-project.csproj",
       "projectName": "passed-rod-project",
-      "projectPath": "C:\\Users\\44506315871\\Desktop\\passed-rod-project\\passed-rod-project.csproj",
+      "projectPath": "C:\\Users\\44506315871\\Desktop\\zxc\\passed-rod-project\\passed-rod-project.csproj",
       "packagesPath": "C:\\Users\\44506315871\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\44506315871\\Desktop\\passed-rod-project\\obj\\",
+      "outputPath": "C:\\Users\\44506315871\\Desktop\\zxc\\passed-rod-project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\44506315871\\AppData\\Roaming\\NuGet\\NuGet.Config",
