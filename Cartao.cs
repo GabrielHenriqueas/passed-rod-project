@@ -17,15 +17,19 @@ namespace passed_rod_project
         public abstract void Pagar();
         public string SalvarCartao()
         {
+            Console.Clear();
             Console.WriteLine($"Informe a bandeira do cartão: ");
             Bandeira = Console.ReadLine()!;
 
+            Console.Clear();
             Console.WriteLine($"Informe o número do cartão: ");
             NumeroCartao = Console.ReadLine()!;
 
+            Console.Clear();
             Console.WriteLine($"Informe o nome do titular do cartão: ");
             Titular = Console.ReadLine()!;
 
+            Console.Clear();
             Console.WriteLine($"Informe o código de segurança: ");
             Cvv = Console.ReadLine()!;
 

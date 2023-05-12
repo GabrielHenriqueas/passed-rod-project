@@ -24,21 +24,26 @@ Escolha a sua forma de pagamento:
     switch (opcao)
     {
         case "0":
+            Console.Clear();
             p.Cancelar();
+            Console.WriteLine($"Cancelando operação...");
             break;
         case "1":
+            Console.Clear();
             Console.WriteLine($"Informe o valor da compra: ");
             c.valor = int.Parse(Console.ReadLine()!);
             c.SalvarCartao();
             c.Pagar();
             break;
         case "2":
+            Console.Clear();
             Console.WriteLine($"Informe o valor da compra: ");
             d.valor = int.Parse(Console.ReadLine()!);
             d.SalvarCartao();
             d.Pagar();
             break;
         case "3":
+            Console.Clear();
             Console.WriteLine($"Informe o valor da compra: ");
             b.valor = int.Parse(Console.ReadLine()!);
             b.Registrar();

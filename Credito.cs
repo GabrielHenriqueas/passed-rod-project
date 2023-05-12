@@ -15,7 +15,7 @@ namespace passed_rod_project
             // quantidade de parcelas
             //  a depender da quantidade de parcelas, temos um calculo do valor a ser pago
             // exibir o valor
-
+            Console.Clear();
             if (valor <= limite)
             {
                 do
